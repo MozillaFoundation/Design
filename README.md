@@ -4,11 +4,12 @@ The Mozilla Foundation Design team encompasses a group of highly multidisciplina
 
 We spend a lot of our energy promoting web literacy. We’ve been hard at work the past year building innovative tools, supporting communities, teaching, learning, and shaping the environments in which the open web is made possible. We want everyone in the world to create, not just consume, the Web around them.
 
-The Mozilla Foundation design team is located in Vancouver, Portland, Toronto, and Paris, Ontario. We all hang out on [IRC](https://wiki.mozilla.org/IRC) in the #mofodesign channel. The wider Mozilla network of designers can generally also be found in #fistbump (visual design) and #ux. 
+The Mozilla Foundation design team is located in Vancouver, Portland, Toronto, and Paris, Ontario. We all hang out on [IRC](https://wiki.mozilla.org/IRC) in the #mofodesign channel. The wider Mozilla network of designers can generally also be found in #fistbump (visual design) and #ux.
 
 We’d love to meet you – [email us to say hi](open-design@mozillafoundation.org)!
 
-— screenshot of heads/pattern/photo ---
+![Some of the design team in Whistler, B.C.](https://cloud.githubusercontent.com/assets/1119821/12303535/d338a55a-b9f8-11e5-9893-ccab7c3e524e.png)
+
 
 ## Design Principles
 
