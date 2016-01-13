@@ -8,7 +8,7 @@ The Mozilla Foundation design team is located in Vancouver, Portland, Toronto, a
 
 We’d love to meet you – [email us to say hi](open-design@mozillafoundation.org)!
 
-![Some of the design team in Whistler, B.C.](https://cloud.githubusercontent.com/assets/1119821/12303535/d338a55a-b9f8-11e5-9893-ccab7c3e524e.png)
+![Some of the design team in Whistler, B.C.](https://cloud.githubusercontent.com/assets/1119821/12303693/ba0ddc48-b9f9-11e5-9afb-c6a14f7e44af.png)
 
 
 ## Design Principles
