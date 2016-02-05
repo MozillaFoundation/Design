@@ -47,6 +47,8 @@ Of course, you don't need to do it all. Even if you wish to focus on one discipl
 
 All of Mozilla is open! In our [Community Design Repository](https://github.com/mozilla/community-design), you can find design tasks across all of Mozilla and our communities, ready for you to tackle.
 
-## Templates and Guides
+## Resources
 
-If you are working with us as a contributor, we have created [a set of templates and guides](https://drive.google.com/folderview?id=0ByIoeeW0a3R_UjEzdDU4NlMzYXc&usp=drive_web) to help make it easier for you to get started. We have a collection of Toolkits, UI Guides, and Annotation Templates ready for you to use. Of course, we would love to walk you through this content ourselves, if that's helpful. [Give us a shout](mofo-design@mozillafoundation.org) and a member of our team can set up a call with you.
+If you are working with us as a contributor, we have created [a set of templates and guides](https://drive.google.com/folderview?id=0ByIoeeW0a3R_UjEzdDU4NlMzYXc&usp=drive_web) to help make it easier for you to get started. We have a collection of Toolkits, UI Guides, and Annotation Templates ready for you to use. You can find many more resources available at [https://build.mozillafoundation.org/design](build.mozillafoundation.org/design).
+
+Of course, we would love to walk you through this content ourselves, if that's helpful. [Give us a shout](mofo-design@mozillafoundation.org) and a member of our team can set up a call with you.
