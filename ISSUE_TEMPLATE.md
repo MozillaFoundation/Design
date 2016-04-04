@@ -2,4 +2,4 @@
 
 
 
-cc: @cassiemc @kristinashu @sabrinang @natalieworth @flukeout @lovegushwa @vazquez
+cc: @kristinashu @sabrinang @natalieworth @flukeout @lovegushwa @vazquez @xmatthewx
