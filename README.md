@@ -29,6 +29,9 @@ Each stage of our process supports the following goals:
 
 Take a look at our [full Process](https://github.com/MozillaFoundation/Design/wiki/Process). If you have any suggestions on improvements, we’re always eager to hear.
 
+## Information Architecture
+Foundation work focuses on these primary hubs: Advocacy, Learning Network, Science Lab, and Open News. As well as new initiatives: Internet of Things and Women & Web Literacy. These hub have common themes going through them: Leadership, Campaigns, Fellowships, Convenings, Communication, Tools, Resources and Community Members. This IA stucture helps dictate where content should live and what the URL should be. The themes also highlights opportunities to bridge across the hubs and work together. Take a look at this [chart] (http://bit.ly/MoFo-IA) for a summary.
+
 ## How to Work With Us
 
 We love working with contributors from all around the world. As an contributor, you will be immersed in the world of products such as Thimble, communities such as Mozilla Learning Networks and Mozilla Hive groups, and initiatives such as Mozilla Advocacy and Fundraising.
