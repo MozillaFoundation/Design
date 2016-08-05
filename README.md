@@ -1,4 +1,5 @@
 # Mozilla Foundation Design
+[![Shipping fast with zenHub](https://raw.githubusercontent.com/ZenHubIO/support/master/zenhub-badge.png)](https://zenhub.com)
 
 The Mozilla Foundation Design team encompasses a group of highly multidisciplinary makers. We love everything design, from research to code, colours to typography, and branding to app UIs. We strive for our work to reflect an open source ethos, striving for and promoting an open and honest relationship with the world around us.
 
