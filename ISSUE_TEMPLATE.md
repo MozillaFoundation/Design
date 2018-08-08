@@ -6,4 +6,4 @@ http://bit.ly/mozdesignbrief
 ### Links
 
 
-cc: @kristinashu @sabrinang @natalieworth @xmatthewx @taisdesouzalessa
+cc: @kristinashu @sabrinang @natalieworth @xmatthewx @taisdesouzalessa @beccaklam
