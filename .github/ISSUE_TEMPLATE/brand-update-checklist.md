@@ -70,4 +70,4 @@ _An issue template in github_
   - [ ] Provide an R+ or R- in the ticket
   - [ ] List reasons for approving or denying changes
 
-cc @kristinashu @sabrinang @beccaklam @xmatthewx @natalieworth
+cc @kristinashu @sabrinang @beccaklam @natalieworth
