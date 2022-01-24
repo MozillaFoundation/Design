@@ -24,7 +24,7 @@ Each stage of our process supports the following goals:
 - Design using iterative practices
 - Add a dash of levity or whimsy to provoke interest
 
-Take a look at our [full Process](https://github.com/MozillaFoundation/Design/wiki/Process).
+Take a look at our [full Process](https://foundation.mozilla.org/en/docs/brand/process/process-for-uxui-projects/).
 
 ## Resources
 
